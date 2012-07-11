@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/root/research/leigh/Ruby/test1/app/views/posts'
-let g:netrw_dirhist_2='/root/research/leigh/Ruby/test1/spec/requests'
-let g:netrw_dirhist_3='/home/leigh/projects/research/leigh/Ruby/test1'
-let g:netrw_dirhist_4='/home/leigh/projects/research/leigh/Ruby/test1/app'
-let g:netrw_dirhist_5='/home/leigh/projects/research/leigh/Ruby/test1/app/controllers'
-let g:netrw_dirhist_6='/home/leigh/.vim/colors'
