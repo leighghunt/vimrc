@@ -4,6 +4,7 @@
 * http://net.tutsplus.com/sessions/vim-essential-plugins/ 
 * http://www.catonmat.net/blog/vim-plugins-surround-vim/
 * http://net.tutsplus.com/sessions/vim-essential-plugins/
+* http://vim.runpaint.org/extending/integrating-vim-with-git/
 
 ##Sample .vimrc files:##
 * http://amix.dk/vim/vimrc.html
@@ -16,3 +17,4 @@
 ##Useful plugins:##
 * SnipMate
 * NERDTree
+* git.vim (https://github.com/motemen/git-vim)
