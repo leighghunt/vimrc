@@ -45,7 +45,7 @@
     set showcmd  
       
     "Show lines numbers  
-    set number  
+    set number
       
     "Prefer relative line numbering?  
     "set relativenumber"  
@@ -171,6 +171,23 @@
     nmap <C-j> <C-w>j  
     nmap <C-k> <C-w>k  
     nmap <C-l> <C-w>l  
+
+
+    " from http://vim.wikia.com/wiki/Alternative_tab_navigation
+    " tab navigation like firefox
+    nnoremap <C-S-tab> :tabprevious<CR>
+    nnoremap <C-tab>   :tabnext<CR>
+    nnoremap <C-t>     :tabnew<CR>
+    inoremap <C-S-tab> <Esc>:tabprevious<CR>i
+    inoremap <C-tab>   <Esc>:tabnext<CR>i
+    inoremap <C-t>     <Esc>:tabnew<CR>
+
+
+
+
+
+
+
       
     "Helpeful abbreviations  
     iab lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
